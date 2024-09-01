@@ -1,7 +1,7 @@
 function NavIcon() {
   return (
       <h1 className='ml-10 text-3xl font-burtons font-bold italic'>
-        <a href='/'>
+        <a href='/golden-oak'>
           <img src='./golden-oak.png' alt='Golden Oak Logo' width={'128px'} className="rounded-[100%] inline-block mr-5" />
           Golden Oak University
         </a>
